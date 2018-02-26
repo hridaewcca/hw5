@@ -1,5 +1,3 @@
-var x = 230;
-var y = 220;
 var a = [];
 var b = [];
 var velx = [];
